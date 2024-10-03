@@ -1,1 +1,2 @@
-This code is about using sklearn and nltk to implement latent semantic analysis with 3 topics and 4 documents.
+LSA is about using sklearn and nltk to implement latent semantic analysis with 3 topics and 4 documents.
+Sparse Coding is about representing data with a small number of basis functions (those who have non-zero coefficients). Basis functions are the dictionary elements. The constraint is that only a few of the coefficients corresponding to the dictionary elements are non-zero.
